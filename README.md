@@ -135,5 +135,9 @@ We used an AI-in-the-loop workflow to:
 
 ## 👥 Contributors
 
-**Rohan Giri** — Frontend, API integrations, Cloud, Agentic AI
-**Manas Mishra** — Backend, Supabase Integration, Cloud Run
+**Manas Mishra** — Backend, Supabase Integration, Cloud IAM , Agentic AI
+
+**Rohan Giri** — Frontend, API integrations, Cloud Run , Agentic AI
+
+
+
