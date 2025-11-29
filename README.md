@@ -2,7 +2,7 @@
 
 # Project Volunteer
 
-### **A 3-tier full-stack volunteer management system built in 2 days using FastAPI, React, Supabase, Docker, GCP & agentic AI.**
+### **A 3 tier Full Stack Volunteer management system built in 2 days using FastAPI, React, Supabase, Docker, GCP & Agentic AI.**
 
 ---
 
