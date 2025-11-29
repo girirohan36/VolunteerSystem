@@ -11,7 +11,8 @@
 Project Volunteer is a full-stack 3-tier application (**Frontend → API → Database**) that helps manage volunteer registrations, categories, and tasks.
 The entire system was designed, built, debugged, and deployed over Thanksgiving break using an **agentic AI workflow**.
 
-<img width="2360" height="1640" alt="IMG_0676" src="https://github.com/user-attachments/assets/e08da4a7-2cbe-4e02-b37e-1166e05e1bf1" />
+![IMG_0676](https://github.com/user-attachments/assets/607a65ca-6294-4158-9755-96d69576edaf)
+
 
 
 ## Architecture
